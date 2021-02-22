@@ -31,3 +31,22 @@
 | Activer magnétisme angulaire | c |
 | Parcourir le mode symétrie | x |
 | Copier la pièce | Alt + Clic gauche | 
+
+### Vol
+##### Translation
+| Effet | Touche |
+|--------|-------|
+| Avant | h |
+| Arrière | n |
+| Haut | k |
+| Bas | i |
+| Gauche | j |
+| Droite | l |
+
+##### Gaz
+| Effet | Touche |
+|--------|-------|
+| Augmenter | Maj gauche |
+| Baisser | Ctrl gauche |
+| Max | w |
+| Couper | x |
