@@ -48,5 +48,5 @@
 |--------|-------|
 | Augmenter | Maj gauche |
 | Baisser | Ctrl gauche |
-| Max | w |
-| Couper | x |
+| Plein gaz | w |
+| Couper les gaz | x |
